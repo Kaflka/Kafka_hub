@@ -10,7 +10,7 @@ def main():
     spark_api_secret = st.text_input("请输入 SPARKAI_API_SECRET", type="password")
     spark_api_key = st.text_input("请输入 SPARKAI_API_KEY", type="password")
 
-    st.header("生成文案")
+    st.header("生成标题")
     theme = st.text_input("主题", "")
 
     if st.button("生成标题"):
