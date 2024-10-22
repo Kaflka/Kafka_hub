@@ -1,5 +1,6 @@
 # titles_created_ai
 基于星火大模型制作的小红书爆款标题生成器  
+https://titlescreated-kbgtmcdvraxjdkxdt42eay.streamlit.app/（打开网址可使用）
 ## 依赖环境：  
   Python 3.10  
   Streamlit  
